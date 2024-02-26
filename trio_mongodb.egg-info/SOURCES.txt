@@ -1,7 +1,0 @@
-LICENSE
-README.md
-setup.py
-trio_mongodb.egg-info/PKG-INFO
-trio_mongodb.egg-info/SOURCES.txt
-trio_mongodb.egg-info/dependency_links.txt
-trio_mongodb.egg-info/top_level.txt
