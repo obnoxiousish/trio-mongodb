@@ -47,5 +47,6 @@ if __name__ == "__main__":
     )
     
     config = Config()
+    config.bind = ["127.0.0.1:8002"]
     
     trio.run(serve, app, config)

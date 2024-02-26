@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='trio_mongodb',
-    version='0.3.0',
+    version='0.4.0',
     packages=find_packages(),
     install_requires=['trio', 'pymongo', 'hypercorn', 'httpx', 'starlette'],
     python_requires='>=3.8',
